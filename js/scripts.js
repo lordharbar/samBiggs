@@ -1,13 +1,3 @@
-/*!
-    Title: SHB Portfolio Site
-    Version: 1.1.1
-    Last Change: 03/19/17
-    Author: Sam Biggs
-
-    Description: This file contains all the scripts associated with the single-page
-    portfolio website.
-*/
-
 (function($) {
 
     // Remove no-js class
