@@ -7,7 +7,7 @@
   "author": "<harrbiggs@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "4.1.2",
     "font-awesome": "FortAwesome/Font-Awesome",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
